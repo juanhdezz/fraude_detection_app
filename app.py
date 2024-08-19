@@ -149,7 +149,7 @@ if submitted:
 st.markdown(
     """
     <div class="footer">
-        <p>&copy; 2024 Detector de Fraude. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Juan Hernández "Fraud detection machine". Todos los derechos reservados.</p>
         <a href="https://github.com/juanhdezz" target="_blank"><i class="fab fa-github"></i> GitHub</a>
         <a href="https://www.linkedin.com/in/juan-hernandez-sag/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
         <a href="mailto:jhernandezsanchezagesta@gmail.com"><i class="fas fa-envelope"></i> Contacto</a>
